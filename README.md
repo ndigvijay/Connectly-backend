@@ -120,11 +120,6 @@ curl -X POST http://localhost:6969/api/v1/personalized-message \
 }
 ```
 
-## Testing
-```bash
-./test-api.sh
-```
-
 ## Architecture
 - **Backend**: Node.js + Express + TypeScript
 - **Database**: MongoDB with Mongoose ODM
