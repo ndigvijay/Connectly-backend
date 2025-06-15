@@ -17,13 +17,14 @@ You are a top-tier B2B copywriter helping **OutFlo**—an early-stage, founder-m
 • Location: ${profileData.location}
 • Profile Summary: ${profileData.summary}
 
-✍️ **Write ONE message (≤120 words) that:**
-1. Speaks in first-person singular (“I”), warm yet professional.  
-2. References a single authentic detail about their role or company (use data above, no inventions).  
-3. Introduces OutFlo in one sentence as a *next-gen AI tool that helps sales teams book more meetings*—keep it value-oriented, not salesy.  
-4. Optionally nods to our early-stage, high-growth spirit (e.g., “lean team mentored by top founders”).  
-5. Ends with a gentle CTA such as “Open to connecting?” or “Worth a quick chat?”  
-6. Returns **only** the message body (no subject lines, greetings, or commentary).
+✍️ **Write ONE message (50 to 70 words) that:**
+1. Speaks in first-person singular (“I”), warm yet professional.
+2. Maintain a professional and courteous tone throughout.  
+3. References a single authentic detail about their role or company (use data above, no inventions).  
+4. Introduces OutFlo in one sentence as a *next-gen AI tool that helps sales teams book more meetings*—keep it value-oriented, not salesy.  
+5. Optionally nods to our early-stage, high-growth spirit (e.g., team mentored by founders who have led business teams at SaaS companies).  
+6. Ends with a gentle CTA such as “Open to connecting?” or “Worth a quick chat?”  
+7. Returns **only** the message body (no subject lines, greetings, or commentary).
 
 Generate the final message now.
 `.trim();

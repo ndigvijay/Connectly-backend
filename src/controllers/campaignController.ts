@@ -1,5 +1,6 @@
 import { Request, Response } from 'express';
 import { Campaign } from '../models/Campaign';
+import { Account } from '../models/Account';
 import { ICampaign, ApiResponse } from '../types';
 import mongoose from 'mongoose';
 
