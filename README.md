@@ -1,6 +1,10 @@
-# OutFlo Campaign Management System
+# Connectly Campaign Management System
 
 A TypeScript backend API for managing LinkedIn outreach campaigns with AI-powered message generation.
+
+## Deployed API
+
+The backend API is deployed and accessible at: https://outflo-backend-tsms.onrender.com/api/v1
 
 ## Features
 
@@ -41,7 +45,7 @@ npm install
 ### Configuration
 Create `.env` file:
 ```env
-MONGO_URI=mongodb://127.0.0.1:27017/outflo
+MONGO_URI=mongodb://127.0.0.1:27017/connectly
 CLAUDE_API_KEY=your_claude_api_key
 PORT=6969
 NODE_ENV=development
